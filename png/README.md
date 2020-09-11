@@ -1,1 +1,1 @@
-# 그림 파일을 모아 놓는 폴더
+# PICTURE FOLDER
