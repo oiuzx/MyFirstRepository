@@ -1,5 +1,9 @@
-# MyFirstRepository
+# 캡스톤 디자인
+## 2주차 과제
 
-[Click here](https://www.google.com/search?q=baby+cat&hl=ko&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjTvcbPy-DrAhVSGaYKHd6kCC0Q_AUoAXoECA0QAw&biw=1920&bih=888)
+<img width="" height="" src="./png/2wk.PNG">
 
-<img width="" height="" src="./png/unnamed.jpg">
+## 3주차 과제
+<img width="" height="" src="./png/3-1.PNG">
+<img width="" height="" src="./png/3-2.PNG">
+<img width="" height="" src="./png/3-3.PNG">
